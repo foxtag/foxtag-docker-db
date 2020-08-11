@@ -1,1 +1,4 @@
-docker build -t foxtag/postgres .
+Dockerfile to build a postres image ready for rails development (databases, users, remote access prepared)
+
+== How to build image
+<tt>docker build -t foxtag/postgres .</tt>
